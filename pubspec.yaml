@@ -1,0 +1,64 @@
+name: alexis_art
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+
+  # Firestore
+  cloud_firestore:
+
+  flutter:
+    sdk: flutter
+  # Service locator
+  get_it:
+  # Bloc for state management
+  flutter_bloc:
+  # Value equality
+  equatable:
+  # Functional programming
+  dartz:
+  # Remote API
+  data_connection_checker:
+  http:
+  # Local cache
+  shared_preferences:
+
+
+#  transparent_image: ^1.0.0
+#
+  cached_network_image:
+#
+#  cache_image: ^1.0.5
+#
+#  extended_image: ^0.7.2
+
+  optimized_cached_image:
+
+  photo_view:
+
+  # IOS super ellipse shapes
+  superellipse_shape:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito:
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/images/process/
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+
+
+
+  uses-material-design: true

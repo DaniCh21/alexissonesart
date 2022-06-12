@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057014139679",
+    "firebase_url": "https://alexis-art-flutter-app.firebaseio.com",
+    "project_id": "alexis-art-flutter-app",
+    "storage_bucket": "alexis-art-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057014139679:android:69b9a0ec4e0a4e327efe2a",
+        "android_client_info": {
+          "package_name": "com.alexisart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057014139679-e3m5ic79s6o7j69ju6tf96vc8m14re92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTQ3jR4-R-0NYEt0uXIGD9pxSbjLMvnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057014139679-e3m5ic79s6o7j69ju6tf96vc8m14re92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057014139679-pqeuj567i0vniagup0c2c5aggcgm681u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alexis.art"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
